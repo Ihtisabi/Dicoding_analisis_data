@@ -14,6 +14,7 @@ Proyek ini bertujuan untuk mengidentifikasi pasar potensial bagi e-commerce di B
 - **Folium** untuk visualisasi peta  
 
 ## 📊 Hasil Analisis  
+**dashboard:** https://sucidashboard.streamlit.app/
 1. **Wilayah dengan transaksi dan pengeluaran terbesar**:  
    - **São Paulo (SP), Rio de Janeiro (RJ), Minas Gerais (MG), Rio Grande do Sul (RS), Paraná (PR)**  
    - Kota dengan ekosistem e-commerce paling berkembang.  
