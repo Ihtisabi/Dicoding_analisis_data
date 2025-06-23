@@ -3,7 +3,7 @@
 This project aims to identify promising regions for e-commerce expansion in Brazil through **geospatial analysis** and **data visualization**. It focuses on uncovering areas with **low transaction volume but high average spending**, which may indicate untapped market opportunities.
 
 ---
-# 📚 Dataset Source
+## 📚 Dataset Source
 Dataset Name: Brazilian E-Commerce Public Dataset by Olist
 Available on Kaggle under the CC BY-NC-SA 4.0 License.
 
